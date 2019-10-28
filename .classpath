@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_221">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 10.x Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LevertK/Documents/jar_files (1)/hibernate-c3p0-4.3.8.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LevertK/Documents/jar_files (1)/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LevertK/Documents/jar_files (1)/log4j-api-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/LevertK/Documents/jar_files (1)/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LevertK/Downloads/jar_files (2)/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LevertK/Downloads/jar_files (3)/twitter4j-core-4.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LevertK/Downloads/apache-logging-log4j.jar/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LevertK/Downloads/junit-4.3.jar/junit-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LevertK/Downloads/jar_files (4)/javax.ws.rs-api-2.1.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
